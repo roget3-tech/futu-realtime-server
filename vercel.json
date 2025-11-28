@@ -1,0 +1,7 @@
+{
+  "rewrites": [
+    { "source": "/futu/push", "destination": "/api/push" },
+    { "source": "/futu/latest", "destination": "/api/latest" },
+    { "source": "/openapi.json", "destination": "/openapi.json" }
+  ]
+}
